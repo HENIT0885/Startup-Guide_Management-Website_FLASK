@@ -1,3 +1,3 @@
 ## Startup Guide Management 
 #### Have a look......
-[Visit Management@Startup-Guide](https://startupguidedeveloper.herokuapp.com)
+[Visit Management@Startup-Guide](http://stgmanagement-ecellvit.herokuapp.com)
